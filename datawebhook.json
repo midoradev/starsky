@@ -1,0 +1,24 @@
+{
+  "content": "**Welcome to SetupBot Support!**",
+  "embeds": [
+    {
+      "title": "📌 Information",
+      "description": "SetupBot is a Discord Bot that can setup your server quickly with many options and can help you have ideas or information to design your server! Currently, SetupBot is running on an old computer in <@!897838071922446466>'s room so it will sometimes crash. And we are discussing whether to move to a new computer, we still have a backup if the bot crashes!\n\n────────── **[Websibe](https://setupbot.xyz) • [Invite](https://discord.com/api/oauth2/authorize?client_id=934084821007859784&permissions=8&scope=bot%20applications.commands) • [Support](https://discord.gg/FEbta4dpXC) • [Vote](https://top.gg) • [Premium](https://www.patreon.com/setupbot)** ───────────\n\n─────────────||**SetupBot is not affiliated with Discord**||─────────────",
+      "color": 43519,
+      "footer": {
+        "text": "SetupBot made in 🇻🇳 | Uptime: 90% | Memory: 32GB | RAM: 16GB",
+        "icon_url": "https://cdn.discordapp.com/avatars/934084821007859784/608a10b4afe9f1d18bf195ac88835169.png"
+      }
+    },
+    {
+      "title": "📚 Rules",
+      "description": "`-` **Please respect everyone**\n\n`-` **Do not send or do anything about NSFW**\n\n`-` **You are required to speak English or Vietnamese**\n\n`-` **Advertisement of any kind is not allowed**\n\n`-` **You must follow [Discord's Terms of Service](https://discord.com/terms) and [Community Guidelines](https://discord.com/guidelines)**\n***Note: You must be at least 13 years old to use Discord and join this server***\n\n**Moderators or Administrators have the ability to remove you from this server for any reason, even if it is not listed here!**",
+      "color": 43519
+    },
+    {
+      "title": "🤔 Looking for Staff",
+      "description": "**If you are active and helpful on the server. We may ask you to become to a staff!**\n\n**Note: Please DM to <@!898049692447940629> to be recruited!**\n\n**Requirement:**\n\n`-` **Been on the server and active for at least 2 weeks**\n\n`-` **Show your initiative in troubleshooting problems and handling general queries**\n\n`-` **Show your deal with circumstances on your own and trust your judgments**\n\n─────────── ||**Also, we want to recruit website developers**|| ───────────",
+      "color": 43519
+    }
+  ]
+}
