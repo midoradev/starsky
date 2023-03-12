@@ -1,5 +1,3 @@
-# starskybot-website
-
 # Information
 Owner: [notmythdora](https://discord.com/users/897838071922446466)
 
