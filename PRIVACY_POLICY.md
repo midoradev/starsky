@@ -1,53 +1,66 @@
+---
+
 # Privacy Policy for Starsky (Advanced Discord Giveaway Bot)
 
-At Starsky, we take privacy seriously, and we are committed to protecting the personal information of our users. This privacy policy explains how we collect, use, and disclose personal information when you use our Discord giveaway bot (the "Bot").
+At Starsky, we take privacy seriously, and we are committed to protecting the personal information of our users. This privacy policy explains how we collect, use, retain, and disclose personal information when you use our Discord giveaway bot (the "Bot").
+
+---
 
 ## Collection of Personal Information
 
-When you use the Bot, we may collect certain personal information from you, including:
+When you use the Bot, we may collect the following personal information:
 
-Discord user ID: We collect your Discord user ID to identify you as the user of the Bot and to provide you with the features of the Bot.
+* **Discord User ID:** Used to identify you and provide Bot features.
+* **Message Content:** If you interact with the Bot using commands or messages, we may temporarily store the message content to process your request or for giveaway participation. Message content is **not stored for longer than 30 days**.
+* **Giveaway Entries:** Your entries into giveaways are collected to run giveaways and select winners.
+* **Server Information:** Including server ID, server name, and channel ID. This helps us operate and improve the Bot.
 
-Giveaway entries: We collect the entries you make to participate in the giveaways run by the Bot. This information is used solely for the purpose of running the giveaway and selecting winners.
-
-Server information: We collect information about the server where the Bot is used, including server ID, server name, and channel ID, to provide you with the features of the Bot and to improve our services.
+---
 
 ## Use of Personal Information
 
-We may use the personal information we collect from you for the following purposes:
+We use your personal information to:
 
-To operate and maintain the Bot
+* Operate, maintain, and improve the Bot.
+* Provide features and functionality.
+* Process commands and giveaway entries.
+* Communicate updates or policy changes.
+* Select winners and distribute prizes.
+* Develop new features and ensure fair usage.
 
-To provide you with the features and functionality of the Bot
-
-To communicate with you about the Bot, including updates and changes to our policies
-
-To select winners and distribute prizes in the giveaways run by the Bot
-
-To improve our services and develop new features
-
-## Disclosure of Personal Information
-
-We may disclose your personal information in the following circumstances:
-
-To our trusted third-party service providers who help us operate the Bot and provide our services
-
-To comply with legal obligations, such as a court order or a subpoena
-
-To protect our rights, property, or safety, or the rights, property, or safety of others
-
-## Data Security
-
-We take data security seriously and implement appropriate technical and organizational measures to protect your personal information from unauthorized access, use, or disclosure.
+---
 
 ## Data Retention
 
-We will retain your personal information only for as long as necessary to provide you with the features and functionality of the Bot, to comply with our legal obligations, or to resolve disputes.
+* **Message content and giveaway entry data** are retained for **no longer than 30 days**, unless required to comply with legal obligations or resolve disputes.
+* Other data (e.g., user ID, server info) is retained only as long as necessary for providing Bot functionality or fulfilling legal requirements.
+
+---
+
+## Data Security
+
+We implement **industry-standard security measures**, including **encryption at rest for sensitive data**, to protect your personal information from unauthorized access, disclosure, or misuse.
+
+---
+
+## User Data Deletion
+
+You may request the deletion of your data at any time by contacting us via our [Support Server](https://discord.gg/y97MvVyrwC) or messaging the owner [7ncvz](https://discord.com/users/897838071922446466).
+
+---
+
+## Disclosure of Personal Information
+
+Your data may be disclosed:
+
+* To trusted third-party service providers who help operate the Bot.
+* When required by law, such as through a court order or subpoena.
+* To protect the rights, property, or safety of Starsky or others.
+
+---
 
 ## Changes to this Privacy Policy
 
-We may update this privacy policy from time to time. We will notify you of any changes by posting the new privacy policy on our website or through the Bot itself.
+We may update this policy at any time. Changes will be posted here or announced via the Bot. Continued use of the Bot after updates constitutes agreement to the revised policy.
 
-## Contact Us
-
-If you have any questions or concerns about our privacy policy or the way we collect, use, or disclose personal information, please contact us at [Support Server](https://discord.gg/y97MvVyrwC) or the owner: [midora](https://discord.com/users/897838071922446466)
+---
