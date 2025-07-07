@@ -20,11 +20,14 @@ Need help? [Join our Support Server](https://discord.gg/y97MvVyrwC)
 
 ## License & Usage
 
-⚠️ This project is private intellectual property.
-
+⚠️ This project is private intellectual property.  
 You may not copy, use, or redistribute any part of this code without explicit permission.
 
+![Translation Only](https://img.shields.io/badge/Contributions-Languages%2F%20only-blueviolet?style=for-the-badge&logo=github)
+
+> This repository **only accepts contributions to the `Languages/` folder.**  
+> Pull requests that modify any other part of the codebase will be automatically closed by our bot.
 
 ---
 
-© 2021-2025 midoradev | All Rights Reserved
+© 2021–2025 midoradev | All Rights Reserved
