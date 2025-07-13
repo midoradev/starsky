@@ -1,0 +1,48 @@
+name: Validate PR & Auto-Close
+
+on:
+  pull_request:
+    types: [opened, synchronize, reopened]
+
+jobs:
+  validate-pr:
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+    steps:
+      - name: Checkout PR code
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 2
+
+      - name: Get changed files
+        id: validate
+        run: |
+          git fetch origin main
+          files=$(git diff --name-only origin/main)
+          echo "Changed files:"
+          echo "$files"
+
+          for file in $files; do
+            if [[ ! $file == Languages/* ]]; then
+              echo "invalid=true" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+          done
+
+          echo "invalid=false" >> $GITHUB_OUTPUT
+
+      - name: Comment and close PR
+        if: steps.validate.outputs.invalid == 'true'
+        run: |
+          AUTHOR="${{ github.event.pull_request.user.login }}"
+          COMMENT="🚫 **@${AUTHOR}, your pull request was rejected.**  
+Please only modify files inside the \`Languages/\` folder.  
+Changes outside that directory are not accepted."
+
+          gh pr comment "$PR_URL" --body "$COMMENT"
+          gh pr close "$PR_URL"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+        shell: bash
