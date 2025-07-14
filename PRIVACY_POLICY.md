@@ -1,4 +1,4 @@
-# Privacy Policy for Starsky (Advanced Discord Giveaway Bot)
+# Privacy Policy for Starsky Discord Giveaway Bot
 
 At Starsky, we take privacy seriously, and we are committed to protecting the personal information of our users. This privacy policy explains how we collect, use, retain, and disclose personal information when you use our Discord giveaway bot (the "Bot").
 
